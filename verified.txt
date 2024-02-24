@@ -1,0 +1,12 @@
+Password: QWERTY
+Strength: Your password is weak.
+
+Password: Vivek 112233
+Strength: Your password is strong.
+
+Password: abcdef123
+Strength: Your password is strong.
+
+Password: abc123
+Strength: Your password is moderate.
+
